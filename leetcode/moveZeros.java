@@ -1,3 +1,7 @@
+/*
+283.移动零
+ */
+
 package leetcode;
 
 public class moveZeros {
