@@ -3,7 +3,7 @@
 System.arraycopy的用法:(源数组,从哪里开始复制,目的数组,从哪里开始粘贴,复制几个元素)
  */
 
-package leetcode;
+package leetcode.array;
 
 public class Rotate {
     public void rotate(int[] nums, int k) {

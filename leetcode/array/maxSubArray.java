@@ -1,7 +1,7 @@
 /*
 53.最大子数组和
  */
-package leetcode;
+package leetcode.array;
 
 public class maxSubArray {
     public int maxsubarray(int[] nums) {

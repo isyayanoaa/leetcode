@@ -2,7 +2,7 @@
 1.两数之和
  */
 
-package leetcode;
+package leetcode.Hash;
 
 import java.util.HashMap;
 

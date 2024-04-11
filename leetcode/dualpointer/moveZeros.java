@@ -2,7 +2,7 @@
 283.移动零
  */
 
-package leetcode;
+package leetcode.dualpointer;
 
 public class moveZeros {
     public int[] movezeros(int[] nums){
