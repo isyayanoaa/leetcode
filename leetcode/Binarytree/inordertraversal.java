@@ -2,7 +2,7 @@
 94.二叉树的中序遍历
  */
 
-package leetcode.binarytree;
+package leetcode.Binarytree;
 
 import java.util.ArrayList;
 import java.util.Deque;
